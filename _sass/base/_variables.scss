@@ -6,14 +6,15 @@ $base-font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial"
 $heading-font-family: "Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif; // $base-font-family;
 
 // Font Sizes
-$base-font-size: $em-base; // 16px
+/* $base-font-size: $em-base; */ // 16px
+$base-font-size: 18px;
 
 // Adjust modular scale ratio
 $modular-scale-ratio: $minor-third;
 
 // Line height
-$base-line-height: 1.8;
-$heading-line-height: 1.8;
+$base-line-height: 1.6;
+$heading-line-height: 1.6;
 
 // Other Sizes
 $base-border-radius: 3px;
